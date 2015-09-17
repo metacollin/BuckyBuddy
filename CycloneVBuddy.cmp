@@ -1,0 +1,667 @@
+Cmp-Mod V01 Created by PcbNew   date = Wednesday, 09 September 2015 'pmt' 13:26:58
+
+BeginCmp
+TimeStamp = 55FECCD4
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = w_logo:Logo_silk_OSHW_12x13mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 55F16EFC
+Path = 
+Reference = [NoRef];
+ValeurCmp = [NoVal];
+IdModule  = AA_Colliefoots:GhettoViaTiny;
+EndCmp
+
+BeginCmp
+TimeStamp = 55F16EF2
+Path = 
+Reference = [NoRef];
+ValeurCmp = [NoVal];
+IdModule  = AA_Colliefoots:GhettoViaTiny;
+EndCmp
+
+BeginCmp
+TimeStamp = 55F16E7E
+Path = 
+Reference = [NoRef];
+ValeurCmp = [NoVal];
+IdModule  = AA_Colliefoots:GhettoViaTiny;
+EndCmp
+
+BeginCmp
+TimeStamp = 55F16E7A
+Path = 
+Reference = [NoRef];
+ValeurCmp = [NoVal];
+IdModule  = AA_Colliefoots:GhettoViaTiny;
+EndCmp
+
+BeginCmp
+TimeStamp = 55F16E76
+Path = 
+Reference = [NoRef];
+ValeurCmp = [NoVal];
+IdModule  = AA_Colliefoots:GhettoViaTiny;
+EndCmp
+
+BeginCmp
+TimeStamp = 55F16D68
+Path = 
+Reference = [NoRef];
+ValeurCmp = [NoVal];
+IdModule  = AA_Colliefoots:GhettoViaTiny;
+EndCmp
+
+BeginCmp
+TimeStamp = 55F16D64
+Path = 
+Reference = [NoRef];
+ValeurCmp = [NoVal];
+IdModule  = AA_Colliefoots:GhettoViaTiny;
+EndCmp
+
+BeginCmp
+TimeStamp = 55F16D59
+Path = 
+Reference = [NoRef];
+ValeurCmp = [NoVal];
+IdModule  = AA_Colliefoots:GhettoViaTiny;
+EndCmp
+
+BeginCmp
+TimeStamp = 55F16D55
+Path = 
+Reference = [NoRef];
+ValeurCmp = [NoVal];
+IdModule  = AA_Colliefoots:GhettoViaTiny;
+EndCmp
+
+BeginCmp
+TimeStamp = 55F16D4C
+Path = 
+Reference = [NoRef];
+ValeurCmp = [NoVal];
+IdModule  = AA_Colliefoots:GhettoViaTiny;
+EndCmp
+
+BeginCmp
+TimeStamp = 55F16D48
+Path = 
+Reference = [NoRef];
+ValeurCmp = [NoVal];
+IdModule  = AA_Colliefoots:GhettoViaTiny;
+EndCmp
+
+BeginCmp
+TimeStamp = 55F16D44
+Path = 
+Reference = [NoRef];
+ValeurCmp = [NoVal];
+IdModule  = AA_Colliefoots:GhettoViaTiny;
+EndCmp
+
+BeginCmp
+TimeStamp = 55F16D40
+Path = 
+Reference = [NoRef];
+ValeurCmp = [NoVal];
+IdModule  = AA_Colliefoots:GhettoViaTiny;
+EndCmp
+
+BeginCmp
+TimeStamp = 55F16D3C
+Path = 
+Reference = [NoRef];
+ValeurCmp = [NoVal];
+IdModule  = AA_Colliefoots:GhettoViaTiny;
+EndCmp
+
+BeginCmp
+TimeStamp = 55F16D38
+Path = 
+Reference = [NoRef];
+ValeurCmp = [NoVal];
+IdModule  = AA_Colliefoots:GhettoViaTiny;
+EndCmp
+
+BeginCmp
+TimeStamp = 55F16CD3
+Path = 
+Reference = [NoRef];
+ValeurCmp = [NoVal];
+IdModule  = AA_Colliefoots:GhettoViaTiny;
+EndCmp
+
+BeginCmp
+TimeStamp = 55F16CCF
+Path = 
+Reference = [NoRef];
+ValeurCmp = [NoVal];
+IdModule  = AA_Colliefoots:GhettoViaTiny;
+EndCmp
+
+BeginCmp
+TimeStamp = 55F16CCA
+Path = 
+Reference = [NoRef];
+ValeurCmp = [NoVal];
+IdModule  = AA_Colliefoots:GhettoViaTiny;
+EndCmp
+
+BeginCmp
+TimeStamp = 55F16CC5
+Path = 
+Reference = [NoRef];
+ValeurCmp = [NoVal];
+IdModule  = AA_Colliefoots:GhettoViaTiny;
+EndCmp
+
+BeginCmp
+TimeStamp = 55F16CB7
+Path = 
+Reference = [NoRef];
+ValeurCmp = [NoVal];
+IdModule  = AA_Colliefoots:GhettoViaTiny;
+EndCmp
+
+BeginCmp
+TimeStamp = 55F16CAE
+Path = 
+Reference = [NoRef];
+ValeurCmp = [NoVal];
+IdModule  = AA_Colliefoots:GhettoViaTiny;
+EndCmp
+
+BeginCmp
+TimeStamp = 55F16CA9
+Path = 
+Reference = [NoRef];
+ValeurCmp = [NoVal];
+IdModule  = AA_Colliefoots:GhettoViaTiny;
+EndCmp
+
+BeginCmp
+TimeStamp = 55F16CA5
+Path = 
+Reference = [NoRef];
+ValeurCmp = [NoVal];
+IdModule  = AA_Colliefoots:GhettoViaTiny;
+EndCmp
+
+BeginCmp
+TimeStamp = 55F16C9F
+Path = 
+Reference = [NoRef];
+ValeurCmp = [NoVal];
+IdModule  = AA_Colliefoots:GhettoViaTiny;
+EndCmp
+
+BeginCmp
+TimeStamp = 55F16C9A
+Path = 
+Reference = [NoRef];
+ValeurCmp = [NoVal];
+IdModule  = AA_Colliefoots:GhettoViaTiny;
+EndCmp
+
+BeginCmp
+TimeStamp = 55F16C90
+Path = 
+Reference = [NoRef];
+ValeurCmp = [NoVal];
+IdModule  = AA_Colliefoots:GhettoViaTiny;
+EndCmp
+
+BeginCmp
+TimeStamp = 55EB98D1
+Path = /55EB7AEE
+Reference = U1;
+ValeurCmp = ADP5050;
+IdModule  = SH_QFN_QFP:QFN-48-TE;
+EndCmp
+
+BeginCmp
+TimeStamp = 55EB97E3
+Path = /55EBB0CF
+Reference = Q1;
+ValeurCmp = Si7232DN;
+IdModule  = AA_Colliefoots:PowerPak1212;
+EndCmp
+
+BeginCmp
+TimeStamp = 55EC4CE1
+Path = /55EC50E0
+Reference = P1;
+ValeurCmp = CONN_01X06;
+IdModule  = AA_Colliefoots:Castillated_6;
+EndCmp
+
+BeginCmp
+TimeStamp = 55EC672B
+Path = /55EC7025
+Reference = P2;
+ValeurCmp = CONN_01X02;
+IdModule  = AA_Colliefoots:Castillated_2;
+EndCmp
+
+BeginCmp
+TimeStamp = 55EC6733
+Path = /55EC71DF
+Reference = P3;
+ValeurCmp = CONN_01X02;
+IdModule  = AA_Colliefoots:Castillated_2;
+EndCmp
+
+BeginCmp
+TimeStamp = 55EC6743
+Path = /55EC77A6
+Reference = P5;
+ValeurCmp = CONN_01X02;
+IdModule  = AA_Colliefoots:Castillated_2;
+EndCmp
+
+BeginCmp
+TimeStamp = 55EC674B
+Path = /55EC7109
+Reference = P6;
+ValeurCmp = CONN_01X02;
+IdModule  = AA_Colliefoots:Castillated_2;
+EndCmp
+
+BeginCmp
+TimeStamp = 55EC6753
+Path = /55EC729E
+Reference = P7;
+ValeurCmp = CONN_01X02;
+IdModule  = AA_Colliefoots:Castillated_2;
+EndCmp
+
+BeginCmp
+TimeStamp = 55EC675B
+Path = /55EC77A0
+Reference = P8;
+ValeurCmp = CONN_01X02;
+IdModule  = AA_Colliefoots:Castillated_2;
+EndCmp
+
+BeginCmp
+TimeStamp = 55EC6763
+Path = /55EC77AC
+Reference = P9;
+ValeurCmp = CONN_01X02;
+IdModule  = AA_Colliefoots:Castillated_2;
+EndCmp
+
+BeginCmp
+TimeStamp = 55ED7C8F
+Path = /55ED7A04
+Reference = P10;
+ValeurCmp = CONN_01X02;
+IdModule  = AA_Colliefoots:Castillated_2;
+EndCmp
+
+BeginCmp
+TimeStamp = 55ED7C97
+Path = /55ED7B95
+Reference = P11;
+ValeurCmp = CONN_01X02;
+IdModule  = AA_Colliefoots:Castillated_2;
+EndCmp
+
+BeginCmp
+TimeStamp = 55ED7C9F
+Path = /55ED7C6F
+Reference = P12;
+ValeurCmp = CONN_01X02;
+IdModule  = AA_Colliefoots:Castillated_2;
+EndCmp
+
+BeginCmp
+TimeStamp = 55F16C47
+Path = /55EC779A
+Reference = P4;
+ValeurCmp = CONN_01X02;
+IdModule  = AA_Colliefoots:Castillated_2;
+EndCmp
+
+BeginCmp
+TimeStamp = 55F16C4D
+Path = /55ED9A0B
+Reference = P13;
+ValeurCmp = CONN_01X01;
+IdModule  = AA_Colliefoots:Castillated_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5605712E
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = w_logo:Logo_silk_CC-BY-NC-SA_10x3.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5608C1AA
+Path = 
+Reference = [NoRef];
+ValeurCmp = LOGO;
+IdModule  = AA_Colliefoots:GrumpyCat;
+EndCmp
+
+BeginCmp
+TimeStamp = 55EB986D
+Path = /55EB7B07
+Reference = RT1;
+ValeurCmp = 38.4kΩ;
+IdModule  = AA_Colliefoots:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 55EB9867
+Path = /55EB7B0E
+Reference = RFB8;
+ValeurCmp = 21.5kΩ;
+IdModule  = AA_Colliefoots:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 55EB985B
+Path = /55EB7B0A
+Reference = RFB6;
+ValeurCmp = 8.87kΩ;
+IdModule  = AA_Colliefoots:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 55EB9855
+Path = /55EB7B09
+Reference = RFB5;
+ValeurCmp = 4.99kΩ;
+IdModule  = AA_Colliefoots:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 55EB984F
+Path = /55EB7B0F
+Reference = RFB4;
+ValeurCmp = 10.2kΩ;
+IdModule  = AA_Colliefoots:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 55EB9849
+Path = /55EB7B0D
+Reference = RFB3;
+ValeurCmp = 10.2kΩ;
+IdModule  = AA_Colliefoots:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 55EB9843
+Path = /55EB7B0B
+Reference = RFB2;
+ValeurCmp = 10.2kΩ;
+IdModule  = AA_Colliefoots:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 55EB983D
+Path = /55EB7B08
+Reference = RFB1;
+ValeurCmp = 13.3kΩ;
+IdModule  = AA_Colliefoots:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 55EB9837
+Path = /55EB7AF6
+Reference = RCOMP4;
+ValeurCmp = 10kΩ;
+IdModule  = AA_Colliefoots:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 55EB9831
+Path = /55EB7AF5
+Reference = RCOMP3;
+ValeurCmp = 10kΩ;
+IdModule  = AA_Colliefoots:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 55EB982B
+Path = /55EB7AF4
+Reference = RCOMP2;
+ValeurCmp = 6.81kΩ;
+IdModule  = AA_Colliefoots:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 55EB9825
+Path = /55EB7AF3
+Reference = RCOMP1;
+ValeurCmp = 10kΩ;
+IdModule  = AA_Colliefoots:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 55EB981F
+Path = /55EB7B1A
+Reference = R10;
+ValeurCmp = 22kΩ;
+IdModule  = AA_Colliefoots:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 55EB9819
+Path = /55EB7B19
+Reference = R9;
+ValeurCmp = 22kΩ;
+IdModule  = AA_Colliefoots:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 55EB9861
+Path = /55EB7B0C
+Reference = RFB7;
+ValeurCmp = 21.5kΩ;
+IdModule  = AA_Colliefoots:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 55EB9743
+Path = /55EB7B03
+Reference = CVREG1;
+ValeurCmp = 1µF;
+IdModule  = AA_Colliefoots:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 55EB973D
+Path = /55EB7B04
+Reference = CVDD1;
+ValeurCmp = 1µF;
+IdModule  = AA_Colliefoots:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 55EB9701
+Path = /55EB7AFA
+Reference = CCOMP4;
+ValeurCmp = 2.2nF;
+IdModule  = AA_Colliefoots:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 55EB96FB
+Path = /55EB7AF9
+Reference = CCOMP3;
+ValeurCmp = 2.2nF;
+IdModule  = AA_Colliefoots:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 55EB96F5
+Path = /55EB7AF8
+Reference = CCOMP2;
+ValeurCmp = 2.2nF;
+IdModule  = AA_Colliefoots:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 55EB96EF
+Path = /55EB7AF7
+Reference = CCOMP1;
+ValeurCmp = 2.2nF;
+IdModule  = AA_Colliefoots:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 55EB96E9
+Path = /55EB7B18
+Reference = CBST4;
+ValeurCmp = 0.1µF;
+IdModule  = AA_Colliefoots:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 55EB96E3
+Path = /55EB7B17
+Reference = CBST3;
+ValeurCmp = 0.1µF;
+IdModule  = AA_Colliefoots:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 55EB96DD
+Path = /55EB7B16
+Reference = CBST2;
+ValeurCmp = 0.1µF;
+IdModule  = AA_Colliefoots:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 55EB96D7
+Path = /55EB7B15
+Reference = CBST1;
+ValeurCmp = 0.1µF;
+IdModule  = AA_Colliefoots:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 55EB9737
+Path = /55EB7B27
+Reference = COUT2.5V_HPS1;
+ValeurCmp = 22µF;
+IdModule  = AA_Colliefoots:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 55EB9731
+Path = /55EB7B26
+Reference = COUT2.5V1;
+ValeurCmp = 22µF;
+IdModule  = AA_Colliefoots:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 55ED7C87
+Path = /55ED91C2
+Reference = COUT1V4;
+ValeurCmp = 47µF;
+IdModule  = AA_Colliefoots:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 55EB972B
+Path = /55EB7B23
+Reference = COUT1V3;
+ValeurCmp = 47µF;
+IdModule  = AA_Colliefoots:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 55EB9725
+Path = /55EB7B24
+Reference = COUT1V2;
+ValeurCmp = 47µF;
+IdModule  = AA_Colliefoots:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 55EB971F
+Path = /55EB7B22
+Reference = COUT1V1;
+ValeurCmp = 47µF;
+IdModule  = AA_Colliefoots:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 55EB9719
+Path = /55EB7AF2
+Reference = CIN4;
+ValeurCmp = 10µF;
+IdModule  = AA_Colliefoots:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 55EB9713
+Path = /55EB7AF1
+Reference = CIN3;
+ValeurCmp = 10µF;
+IdModule  = AA_Colliefoots:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 55EB970D
+Path = /55EB7AF0
+Reference = CIN2;
+ValeurCmp = 10µF;
+IdModule  = AA_Colliefoots:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 55EB9707
+Path = /55EB7AEF
+Reference = CIN1;
+ValeurCmp = 10µF;
+IdModule  = AA_Colliefoots:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 55EB9773
+Path = /55EB7B21
+Reference = L_HPS1;
+ValeurCmp = 4.7µH;
+IdModule  = AA_Colliefoots:TYD6045;
+EndCmp
+
+BeginCmp
+TimeStamp = 55EB9767
+Path = /55EB7B20
+Reference = L2V1;
+ValeurCmp = 4.7µH;
+IdModule  = AA_Colliefoots:TYD6045;
+EndCmp
+
+BeginCmp
+TimeStamp = 55EB975B
+Path = /55EB7B1F
+Reference = L1V2;
+ValeurCmp = 2.2µH;
+IdModule  = AA_Colliefoots:TYD6045;
+EndCmp
+
+BeginCmp
+TimeStamp = 55EB974F
+Path = /55EB7B1E
+Reference = L1V1;
+ValeurCmp = 2.2µH;
+IdModule  = AA_Colliefoots:TYD6045;
+EndCmp
+
+EndListe

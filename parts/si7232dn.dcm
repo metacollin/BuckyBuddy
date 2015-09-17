@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Si7232DN
+D Si7232DN
+K Dual N-Channel MOSFET
+$ENDCMP
+#
+#End Doc Library
