@@ -5,4 +5,4 @@ BOM and component placement files are in the BOMAndPlace folder, shematics are i
 
 
 Schematic:
-![alt text](https://github.com/metacollin/BuckyBuddy/blob/master/Schematic/CycloneVBuddy.png "Schematic")
+![alt text](https://raw.githubusercontent.com/metacollin/BuckyBuddy/master/Schematic/CycloneVBuddy.png "Schematic")
